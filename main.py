@@ -20,7 +20,7 @@ _steps = [
 
 
 # This automatically reads in the configuration
-@hydra.main(version_base=None,config_name='config.yaml')
+@hydra.main(config_name='config.yaml')
 def go(config: DictConfig):
 
     # Setup the wandb experiment. All runs will be grouped under this name
