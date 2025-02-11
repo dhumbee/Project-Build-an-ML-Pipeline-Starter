@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+IMPORTANT LINKS: 
+W&B - https://wandb.ai/dhummel-1210-western-governors-university/nyc_airbnb?nw=nwuserdhummel1210
+
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
